@@ -1,0 +1,8 @@
+- `git init` – inicia um repositório
+- `git status` – mostra o estado atual
+- `git add` – adiciona arquivos ao staging
+- `git commit` – salva mudanças
+- `git config` – configura nome/email
+- `git help` – mostra ajuda
+
+- `git clone <url>` - clona um repositório online
