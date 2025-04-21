@@ -6,3 +6,4 @@
 - `git help` – mostra ajuda
 
 - `git clone <url>` - clona um repositório online
+- `git checkout -b <branch_name>` - cria e entra em uma nova branch
