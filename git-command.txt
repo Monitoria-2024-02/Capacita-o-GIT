@@ -7,3 +7,8 @@
 
 - `git clone <url>` - clona um repositório online
 - `git checkout -b <branch_name>` - cria e entra em uma nova branch
+
+- `git log` - historico de commits
+- `git log --oneline --graph` - historico de commits bonito
+- `gitk` - gerenciador do git
+- `git reflog` - historico de ações
